@@ -1,1 +1,3 @@
 v0.1 Inicio del proyecto, primer commmit.
+v0.2 
+v0.3
