@@ -1,3 +1,17 @@
 v0.1 Inicio del proyecto, primer commmit.
 v0.2 
 v0.3
+
+
+
+
+
+
+
+
+
+
+
+
+dev-func1
+v0.1 Cambios iniciales a la funcionalidad 1 en desarrollo
