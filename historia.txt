@@ -6,6 +6,7 @@ v0.4 Cambios realizados despues de la creacion de la rama dev-func1
 
 hotfix1
 v0.1 Cambios iniciales a hotfix1
+v0.2
 
 
 
