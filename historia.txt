@@ -22,3 +22,4 @@ v0.3 Funcionalidad terminada, lista para merge con master
 
 dev-func2
 v0.1 Cambios iniciales a la funcionalidad 2 en desarrollo
+v0.2
